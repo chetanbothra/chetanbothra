@@ -20,6 +20,13 @@ Welcome to my GitHub! I'm a passionate Lead Cloud/DevOps Engineer with over 9 ye
 
 ---
 
+### 🎓 Certifications
+
+- **AWS Certified Solutions Architect - Associate**
+- **Google Project Management** *(In-progress)*
+
+---
+
 ### 🚀 What I'm Currently Working On
 
 - **EKS Cluster Optimization:** Enhancing the performance and cost-efficiency of Kubernetes clusters on AWS.
@@ -30,14 +37,18 @@ Welcome to my GitHub! I'm a passionate Lead Cloud/DevOps Engineer with over 9 ye
 
 ### 📝 Latest Articles
 
+I regularly write on Medium about DevOps, cloud technologies, and more. Check out some of my latest posts:
+
 - [How I Resolved Docker Storage Issues on a Full Disk](https://thechetanbothra.medium.com/how-i-resolved-docker-storage-issues-on-a-full-disk-03903e563f20)
 - More articles coming soon...
+
+Visit my Medium profile for more content: [medium.com/@thechetanbothra](https://medium.com/@thechetanbothra)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanbothra&show_icons=true&theme=radical)
+![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thechetanbothra&show_icons=true&theme=radical)
 
 ---
 
@@ -49,4 +60,4 @@ Welcome to my GitHub! I'm a passionate Lead Cloud/DevOps Engineer with over 9 ye
 
 ---
 
-"Technology is best when it brings people together."
+*"Technology is best when it brings people together."*
