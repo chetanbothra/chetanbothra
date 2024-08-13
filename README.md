@@ -52,6 +52,10 @@ Visit my Medium profile for more content: [medium.com/@thechetanbothra](https://
 
 ---
 
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=thechetanbothra&color=blue)
+
 ### 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bothra_chetan@live.in)
