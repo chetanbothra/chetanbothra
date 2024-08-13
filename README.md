@@ -52,11 +52,12 @@ Visit my Medium profile for more content: [medium.com/@thechetanbothra](https://
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
-- **Email:** [Bothra_chetan@live.in](mailto:Bothra_chetan@live.in)
-- **LinkedIn:** [linkedin.com/in/chetanbothra](https://linkedin.com/in/chetanbothra)
-- **Medium:** [medium.com/@thechetanbothra](https://medium.com/@thechetanbothra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bothra_chetan@live.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanbothra)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thechetanbothra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thechetanbothra)
 
 ---
 
