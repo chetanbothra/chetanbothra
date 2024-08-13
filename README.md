@@ -52,7 +52,6 @@ Welcome to my GitHub! I'm a passionate Lead Cloud/DevOps Engineer with over 9 ye
 I regularly write on Medium about DevOps, cloud technologies, and more. Check out some of my latest posts:
 
 - [How I Resolved Docker Storage Issues on a Full Disk](https://thechetanbothra.medium.com/how-i-resolved-docker-storage-issues-on-a-full-disk-03903e563f20)
-- More articles coming soon...
 
 Visit my Medium profile for more content: [medium.com/@thechetanbothra](https://medium.com/@thechetanbothra)
 
