@@ -48,7 +48,7 @@ Visit my Medium profile for more content: [medium.com/@thechetanbothra](https://
 
 ### 📈 GitHub Stats
 
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thechetanbothra&show_icons=true&theme=radical)
+![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanbothra&show_icons=true&theme=radical)
 
 ---
 
