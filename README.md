@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a passionate Lead Cloud/DevOps Engineer with over 9 ye
 
 ### 📈 GitHub Stats
 
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thechetanbothra&show_icons=true&theme=radical)
+![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetanbothra&show_icons=true&theme=radical)
 
 ---
 
